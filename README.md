@@ -29,7 +29,7 @@ You can specify some option
 And then call the reader :
 
 ```C#
-var reader = MyCsvReader.GetCsvReader(Path.Combine(_baseFile, @"PosteKtp.csv"), readerOption);
+var reader = MyCsvReader.GetCsvReader(Path.Combine(_baseFile, @"Myfile.csv"), readerOption);
 ```
 
 For example call `GetValue` function

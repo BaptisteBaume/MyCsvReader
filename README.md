@@ -3,13 +3,13 @@
 ## A small library that allows you to read and write CSV files.
 
 - Get line number.
-
 - Get the column number.
 - Trim the empty end-of-line columns.
 - Get values from a line in text or table format.
 - Get line blocks.
 - Get only certain lines
 - Get a value at certain position
+- And more ...
 
 <u>More advanced functions:</u>
 
